@@ -1,1 +1,3 @@
+This app is designed to help users discover, store, and share various recipes. It includes features such as searching and filtering recipes based on ingredients or categories, displaying detailed recipe information including ingredients and instructions
 
+Here is the screenshot of the App.....
